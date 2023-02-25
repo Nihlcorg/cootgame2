@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/claps.mp3-3371c6aae407691c1d73b62923168e22.mp3str"
+
+[deps]
+
+source_file="res://coot/claps.mp3"
+dest_files=[ "res://.import/claps.mp3-3371c6aae407691c1d73b62923168e22.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

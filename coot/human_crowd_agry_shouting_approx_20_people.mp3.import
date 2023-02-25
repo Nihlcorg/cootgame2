@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/human_crowd_agry_shouting_approx_20_people.mp3-5087624b85364a0fbace7b48e4f0da04.mp3str"
+
+[deps]
+
+source_file="res://coot/human_crowd_agry_shouting_approx_20_people.mp3"
+dest_files=[ "res://.import/human_crowd_agry_shouting_approx_20_people.mp3-5087624b85364a0fbace7b48e4f0da04.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
